@@ -1,0 +1,1 @@
+Users can view available cars, book cars, and add car details easily. The project uses HTML, CSS, JavaScript, Servlets, JSP, and MySQL to connect the front end and back end. It has a simple design that makes booking and managing cars easy for users.
